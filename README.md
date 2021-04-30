@@ -26,8 +26,6 @@
 <img src="./images/java.svg" height="75px" width="150px">
 </div>
 
----
-
 ## 📫 How to reach me:
 [Email](niroshian.b@gmail.com) | [LinkedIn](http://www.linkedin.com/in/niro-b)
     
