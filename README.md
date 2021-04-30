@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Niroshian Balasubramaniam
 
+
 ## 👨‍💻 Freshly-Minted Full-Stack Web Developer
 
----
 
 ## Currently Practicing Technologies Include:
 <div>
@@ -15,12 +15,17 @@
 <img src="./images/mongodb-logo.png" height="50px" width="175px">
 <img src="./images/firebase-logo.png" height="75px" width="50px">
 </div>
+
+
 ## Previously Used:
+
+
 <div>
 <img src="./images/php.png" height="75px" width="150px">
 <img src="./images/python-logo.png" height="75px" width="75px">
 <img src="./images/java.svg" height="75px" width="150px">
 </div>
+
 ---
 
 ## 📫 How to reach me:
