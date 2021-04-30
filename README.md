@@ -1,4 +1,4 @@
-# 👋 I'm Niroshian Balasubramaniam | Freshly-Minted Full-Stack Web Developer 👨‍💻
+# 👋 I'm Niroshian B | Freshly-Minted Full-Stack Web Developer 👨‍💻
 
 ## Currently Practicing Technologies Include:
 <div>
