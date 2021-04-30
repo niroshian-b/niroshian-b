@@ -6,6 +6,10 @@
 <!--
 **niroshian-b/niroshian-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+p {
+font-size: 15px;
+}
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
