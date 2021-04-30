@@ -29,9 +29,7 @@
 ---
 
 ## 📫 How to reach me:
-Email: niroshian.b@gmail.com
-
-[LinkedIn](http://www.linkedin.com/in/niro-b)
+[Email](niroshian.b@gmail.com) | [LinkedIn](http://www.linkedin.com/in/niro-b)
     
     
 <!--
