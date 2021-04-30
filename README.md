@@ -25,7 +25,7 @@
 
 ## 🔭 I’m currently working on:
     - improving my Food-based social media application
-    - improving my E-commerce application
+    - improving my E-commerce site
 
 ## 📫 How to reach me:
 [Email](niroshian.b@gmail.com) | [LinkedIn](http://www.linkedin.com/in/niro-b)
