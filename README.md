@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Niroshian Balasubramaniam  </h1>
 
-<p align="center" size="15px"> Freshly-Minted Full-Stack Web Developer <p>
+<h2 align="center" size="15px"> Freshly-Minted Full-Stack Web Developer </h2>
 
 <p align="center">Previously Used Technologies Include:</p>
 <!--
