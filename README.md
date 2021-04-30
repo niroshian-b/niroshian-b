@@ -22,6 +22,11 @@
 <img src="./images/java.svg" height="75px" width="150px">
 </div>
 
+
+## 🔭 I’m currently working on:
+    - improving my Food-based social media application
+    - improving my E-commerce application
+
 ## 📫 How to reach me:
 [Email](niroshian.b@gmail.com) | [LinkedIn](http://www.linkedin.com/in/niro-b)
     
@@ -31,12 +36,10 @@
 
 Here are some ideas to get you started:
 
--   🔭 I’m currently working on ...
 -   🌱 I’m currently learning ...
 -   👯 I’m looking to collaborate on ...
 -   🤔 I’m looking for help with ...
 -   💬 Ask me about ...
 -
 -   😄 Pronouns: ...
--   ⚡ Fun fact: ...
     -->
