@@ -1,8 +1,8 @@
-<h1>👋 Hi there, I'm Niroshian Balasubramaniam  </h1>
+<h1 align="center">👋 Hi there, I'm Niroshian Balasubramaniam  </h1>
 
-<p> Freshly-Minted Full-Stack Web Developer <p>
+<p align="center"> Freshly-Minted Full-Stack Web Developer <p>
 
-<p>Previously Used</p>
+<p align="center">Previously Used Technologies Include:</p>
 <!--
 **niroshian-b/niroshian-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
