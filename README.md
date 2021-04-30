@@ -1,15 +1,18 @@
-<h1 align="center">👋 Hi there, I'm Niroshian Balasubramaniam  </h1>
+# 👋 Hi there, I'm Niroshian Balasubramaniam
 
-<h2 align="center" size="15px"> Freshly-Minted Full-Stack Web Developer </h2>
+__Freshly-Minted Full-Stack Web Developer__
 
-<p align="center">Previously Used Technologies Include:</p>
+Previously Used Technologies Include:
+
+
+
+📫 How to reach me: 
+- Email: niroshian.b@gmail.com
+- LinkedIn: www.linkedin.com/in/niro-b 
 <!--
 **niroshian-b/niroshian-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-p {
-font-size: 15px;
-}
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
