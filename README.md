@@ -24,8 +24,8 @@
 
 
 ## 🔭 I’m currently working on:
-    - improving my Food-based social media application
-    - improving my E-commerce site
+    - Improving my Food-based social media application
+    - Improving my E-commerce site
 
 ## 📫 How to reach me:
 
