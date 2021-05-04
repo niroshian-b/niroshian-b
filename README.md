@@ -28,7 +28,8 @@
     - improving my E-commerce site
 
 ## 📫 How to reach me:
-[Email](niroshian.b@gmail.com) | [LinkedIn](http://www.linkedin.com/in/niro-b)
+
+<a href = "mailto: niroshian.b@gmail.com">Email</a> | [LinkedIn](http://www.linkedin.com/in/niro-b)
     
     
 <!--
