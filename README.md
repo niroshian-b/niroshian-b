@@ -9,7 +9,7 @@
 <img src="./images/redux.png" height="25px" width="25px">
 <img src="./images/node-js.png" height="25px" width="50px">
 <img src="./images/mongodb-logo.png" height="25px" width="75px">
-<img src="./images/firebase-logo.png" height="25px" width="25px">
+<img src="./images/firebase-logo.png" height="25px" width="15px">
 </div>
 
 
