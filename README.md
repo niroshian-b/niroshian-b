@@ -1,5 +1,9 @@
 # 👋 I'm Niroshian B | Freshly-Minted Full-Stack Web Developer 👨‍💻
 
+## 🔭 I’m currently working on:
+    - Improving my Food-based social media application
+    - Improving my E-commerce site
+    - 
 ## Currently Practicing Technologies Include:
 <div>
 <img src="./images/html-logo.png" height="25px" width="25px">
@@ -23,9 +27,6 @@
 </div>
 
 
-## 🔭 I’m currently working on:
-    - Improving my Food-based social media application
-    - Improving my E-commerce site
 
 ## 📫 How to reach me:
 
