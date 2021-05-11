@@ -21,13 +21,13 @@
 <img src="./images/React-icon.svg" height="25px" width="25px">
 <img src="./images/redux.png" height="25px" width="25px">
 <img src="./images/node-js.png" height="25px" width="50px">
-<img src="./images/firebase-logo.png" height="25px" width="20px">
+<img src="./images/mongodb-logo.png" height="25px" width="75px">
 </div>
 
 ## 💭 Previously Used:
 
 <div>
-<img src="./images/mongodb-logo.png" height="25px" width="75px">
+<img src="./images/firebase-logo.png" height="25px" width="20px">
 <img src="./images/php.png" height="25px" width="50px">
 <img src="./images/python-logo.png" height="25px" width="25px">
 <img src="./images/java.svg" height="25px" width="50px">
