@@ -7,7 +7,7 @@
 
 ## 🔭 I’m currently working on:
 
-    - Building my Portfolio
+    - Building my Portfolio site
     - Getting AWS Cloud Practitioner Certified
     - Improving my Food-based social media application
     - Improving my E-commerce site
