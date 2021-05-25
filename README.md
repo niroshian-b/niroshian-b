@@ -3,7 +3,7 @@
 ## 🌱 I’m currently learning:
 
     - about AWS Cloud & Cloud Computing
-    - Blockchain and Bitcoin Fundamentals
+    - Django & relearning Python
 
 ## 🔭 I’m currently working on:
 
