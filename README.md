@@ -10,6 +10,7 @@
 <img src="./images/redux.png" height="25px" width="25px">
 <img src="./images/node-js.png" height="25px" width="50px">
 <img src="./images/mongodb-logo.png" height="25px" width="75px">
+<img src="./images/python-logo.png" height="25px" width="25px">
 </div>
 
 ## 💭 Previously Used:
@@ -17,7 +18,6 @@
 <div>
 <img src="./images/firebase-logo.png" height="25px" width="20px">
 <img src="./images/php.png" height="25px" width="50px">
-<img src="./images/python-logo.png" height="25px" width="25px">
 <img src="./images/java.svg" height="25px" width="50px">
 </div>
 
@@ -29,7 +29,7 @@
 ## 🔭 I’m currently working on:
 
     - Getting AWS Cloud Practitioner Certified
-    - Building my Portfolio site
+    - Practicing Python again by building small scale Projects after a hiatus
     
 ## 📫 How to reach me:
 
