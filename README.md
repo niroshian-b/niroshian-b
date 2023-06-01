@@ -1,4 +1,4 @@
-# 👋 I'm Niroshian B | Full-Stack Web Developer 👨‍💻
+# 👋 I'm Niroshian B | Full-Stack Developer 👨‍💻
 
 ## 🛠️ Currently Practicing Technologies Include:
 
