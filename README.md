@@ -26,6 +26,8 @@
 ## 🔭 I’m currently working on:
     
     - Learning more advanced techniques using Python and Django Rest Framework to build Web APIs
+    - Learning to use TypeScript
+    - Getting AWS Certified
     
 ## 📫 How to reach me:
 
