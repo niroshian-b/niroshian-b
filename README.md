@@ -1,4 +1,16 @@
 # 👋 I'm Niroshian B | Full-Stack Developer 👨‍💻
+## 📫 How to reach me:
+<div style="float: left">
+    <a href = "mailto: niroshian.b@gmail.com">
+        <img alt="Static Badge" src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logoColor=white" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in//niro-b" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://github.com/niroshian-b" target="_blank">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+</div>
 
 ## 🛠️ Currently Practicing Technologies Include:
 
@@ -29,9 +41,7 @@
     - Learning to use TypeScript
     - Getting AWS Certified
     
-## 📫 How to reach me:
 
-<a href = "mailto: niroshian.b@gmail.com">Email</a> | [LinkedIn](http://www.linkedin.com/in/niro-b)
 
 <!--
 **niroshian-b/niroshian-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
