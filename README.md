@@ -2,46 +2,43 @@
 <div>
     Electrical Engineering student and full stack software developer with a strong desire to advance critical infrastructure and supply. Drawing on a rigorous background in full-stack development, database management, and automated testing, I bring a disciplined and analytical approach to systems integration, data analysis, and technical problem solving. I am eager to apply my skills in system modelling, reliability, and software-hardware integration to help optimize public infrastructure.
 
-
-</div>
-<div>
-    <a href = "mailto: niroshian.b@gmail.com" >
-        <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/niro-b" target="_blank" >
-        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/niroshian-b" target="_blank" >
-        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
-    </a>
 </div>
 
 ## 🛠️ Technical Skills:
 
 <div>
-    <img src="./images/sass.png" height="25px" width="25px">
+    <img alt="MultiSim Static Badge" src="https://img.shields.io/badge/multisim-black?style=flat&logo=multisim">
+    <img alt="Solidworks Static Badge" src="https://img.shields.io/badge/solidworks-black?style=flat&logo=dassaultsystemes">    
 </div>
 
 ## 💻 Programming & Software Development 
 
-<div>
-    <img src="./images/python-logo.png" height="20px" width="20px">
-    <img src="./images/mysql.svg" height="20px" width="40px">
-    <img src="./images/React-icon.svg" height="20px" width="20px">
-    <img src="./images/docker.svg" height="20px" width="40px">
-    <img src="./images/jira.svg" height="20px" width="40px">
-    <img src="./images/django-logo-big.jpg" height="20px" width="40px">
-    <img src="./images/mongodb-logo.png" height="20px" width="40px">
-    <img src="./images/redux.png" height="20px" width="20px">
-    <img src="./images/angular.png" height="20px" width="40px">
+<div> 
+    <img alt="Python Static Badge" src="https://img.shields.io/badge/python-black?style=flat&logo=python">
+    <img alt="MySQL Static Badge" src="https://img.shields.io/badge/mysql-black?style=flat&logo=mysql">
+    <img alt="React Static Badge" src="https://img.shields.io/badge/react-black?style=flat&logo=react">
+    <img alt="Docker Static Badge" src="https://img.shields.io/badge/docker-black?style=flat&logo=docker">
+    <img alt="Jira Static Badge" src="https://img.shields.io/badge/jira-black?style=flat&logo=jira">
+    <img alt="Java Static Badge" src="https://img.shields.io/badge/java-black?style=flat&logo=eclipseide">
+    <img alt="Django Static Badge" src="https://img.shields.io/badge/django-black?style=flat&logo=django">
+    <img alt="MongoDB Static Badge" src="https://img.shields.io/badge/mongodb-black?style=flat&logo=mongodb">
+    <img alt="Redux Static Badge" src="https://img.shields.io/badge/redux-black?style=flat&logo=redux">
+    <img alt="Angular Static Badge" src="https://img.shields.io/badge/Angular-black?style=flat&logo=redux">
 </div>
 
-## 🔭 I’m currently working on:
-    
-    - Learning more advanced techniques using Python and Django Rest Framework to build Web APIs
-    - Learning to use TypeScript
-    - Getting AWS Certified
-    
+## 📨 Contact Me 
+<div>
+    <div>
+    Email:
+        <a href = "mailto: niroshian.b@gmail.com" >
+            niroshian.b@gmail.com
+        </a>
+    </div>
+     <div>
+        LinkedIn:
+        <a href="https://linkedin.com/in/niro-b" target="https://www.linkedin.com/in/niro-b/">www.linkedin.com/in/niro-b/</a>
+    </div>
+</div>
 
 
 <!--
