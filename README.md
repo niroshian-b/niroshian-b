@@ -1,6 +1,6 @@
 # 👋 I'm Niroshian B | Electrical Engineering Student | Full-Stack Developer
 <div>
-    Electrical Engineering student and full stack software developer with a strong desire to advance critical infrastructure and supply. Drawing on a rigorous background in full-stack development, database management, and automated testing, I bring a disciplined and analytical approach to systems integration, data analysis, and technical problem solving. I am eager to apply my skills in system modelling, reliability, and software-hardware integration to help optimize public infrastructure.
+    Electrical Engineering student and form full stack software developer with a strong desire to advance critical infrastructure and supply in the interest of public service. Drawing on a rigorous background in full-stack development, database management, and automated testing, I bring a disciplined and analytical approach to systems integration, data analysis, and technical problem solving. I am eager to apply my skills in system modelling, reliability, and software-hardware integration to help optimize public infrastructure.
 
 </div>
 
